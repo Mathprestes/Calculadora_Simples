@@ -1,6 +1,6 @@
 # Calculadora_Simples
 
-#Fiz uma simples calculadora, com poucas opções, podemos ver a classe contendo todas as operações necessárias e sendo chamadas direto no botão da operação
+#Fiz uma simples calculadora, com poucas opções, podemos ver a classe contendo todas as operações necessárias e sendo chamadas direto no botão da <h1>
 
 ![Interface](https://github.com/Mathprestes/Calculadora_Simples/blob/master/1.png)
 ![Interface2](https://github.com/Mathprestes/Calculadora_Simples/blob/master/2.png)
